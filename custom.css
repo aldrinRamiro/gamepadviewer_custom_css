@@ -7,7 +7,7 @@
 }
 
 .custom.disconnected {
-  background: url(stick-assets/disconnected.svgz) no-repeat;
+  background: url(https://gamepadviewer.com/stick-assets/disconnected.svgz) no-repeat;
 }
 
 .custom.disconnected div {
@@ -186,7 +186,7 @@
   height: 221px;
   top: 199px;
   left: 192px;
-  background: url(stick-assets/stick.svgz);
+  background: url(https://gamepadviewer.com/stick-assets/stick.svgz);
 }
 
 .custom .fstick.up {
