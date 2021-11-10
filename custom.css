@@ -194,7 +194,7 @@ strong {
 
 /*BEGIN Fight Stick Controller Styling*/
 .controller.fight-stick {
-    background: url(https://github.com/aldrinRamiro/gamepadviewer_custom_css.io/blob/master/stick_bg.svg) center no-repeat;
+    background: url(https://gitcdn.link/cdn/aldrinRamiro/gamepadviewer_custom_css/main/stick_bg.svg) center no-repeat;
     height: 534px;
     width: 1122px;
 }
